@@ -1,0 +1,21 @@
+level:
+    high prio:
+
+        add mobs & waves
+        add buildings
+
+        add  chunks & waves
+
+    low prio:
+
+        keyboard and mouse inputs
+
+mobs:
+    high prio:
+
+        mobs trigger chunks
+
+
+chunks:
+store info about buildings etc
+when walked upon, trigger effects like getting in range, deal dmg (burning floor)

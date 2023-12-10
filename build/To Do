@@ -1,0 +1,27 @@
+To Do list:
+###############################################################
+surfaces:
+    - unterteile path und buildings in geeignete surfaces
+    - erst Mobs und Türme auf jeweilige surfaces blitten
+    - Reihenfolge festlegen in denen die Surfaces gemalt werden
+    ->> mal Turm vor Mob, mal Mob vor Turm
+###############################################################
+
+mobs:
+    - hoch / runter Richtung für Skelette
+    - path surfaces and draw order
+
+    low prio:
+    - maybe blits > blit, mehrere mobs gleichzeitig malen
+    - mehr pahts
+    - mehr mobs
+
+buildings:
+    - actually hitting a target
+    - better angle of arrows
+    - targetting mobs
+
+    - gold cost for building
+
+    optional:
+    - tower animations (wind & banners, hay roofs)
